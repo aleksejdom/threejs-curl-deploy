@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/threejs-curl-deploy/static/css/main.8e6ec101.chunk.css",
+    "main.js": "/threejs-curl-deploy/static/js/main.d58fb41d.chunk.js",
+    "main.js.map": "/threejs-curl-deploy/static/js/main.d58fb41d.chunk.js.map",
+    "runtime-main.js": "/threejs-curl-deploy/static/js/runtime-main.358fefda.js",
+    "runtime-main.js.map": "/threejs-curl-deploy/static/js/runtime-main.358fefda.js.map",
+    "static/js/2.6065da87.chunk.js": "/threejs-curl-deploy/static/js/2.6065da87.chunk.js",
+    "static/js/2.6065da87.chunk.js.map": "/threejs-curl-deploy/static/js/2.6065da87.chunk.js.map",
+    "index.html": "/threejs-curl-deploy/index.html",
+    "static/css/main.8e6ec101.chunk.css.map": "/threejs-curl-deploy/static/css/main.8e6ec101.chunk.css.map",
+    "static/js/2.6065da87.chunk.js.LICENSE.txt": "/threejs-curl-deploy/static/js/2.6065da87.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.358fefda.js",
+    "static/js/2.6065da87.chunk.js",
+    "static/css/main.8e6ec101.chunk.css",
+    "static/js/main.d58fb41d.chunk.js"
+  ]
+}
